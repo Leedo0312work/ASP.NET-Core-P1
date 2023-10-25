@@ -1,0 +1,119 @@
+﻿@model ThucHanhWebMVC.Models.TDanhMucSp
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Chi tiết sản phẩm</h1>
+
+<!-- Product Details Section Begin -->
+<section class="product-details spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6">
+                <div class="product__details__pic">
+                    <div class="product__details__pic__item">
+                        <img class="product__details__pic__item--large"
+                             src="@Url.Content("/ProductImages/" + Model.AnhDaiDien)" alt="">
+                    </div>
+                    @* <div class="product__details__pic__slider owl-carousel">
+                        @foreach (var image in ViewBag.AnhSanPhams)
+                        {
+                            <img data-imgbigurl="@Url.Content("/ProductImages/" + image.TenFileAnh)"
+                                 src="@Url.Content("/ProductImages/" + image.TenFileAnh)" alt="">
+                        }
+                    </div> *@
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="product__details__text">
+                    <h2>Tên sản phẩm: @Model.TenSp</h2>
+                    <div class="product__details__rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                        <span>(18 reviews)</span>
+                    </div>
+                    <div class="product__details__price">@Model.GiaLonNhat</div>
+                    <p>Giới thiệu sản phẩm: @Model.GioiThieuSp</p>
+                    <p>Thông tin chung: </p>
+                    <div>
+                        <dl class="row">
+                            <dt class="col-sm-2">
+                                @Html.DisplayNameFor(model => model.NganLapTop)
+                            </dt>
+                            <dd class="col-sm-10">
+                                @Html.DisplayFor(model => model.NganLapTop)
+                            </dd>
+                            <dt class="col-sm-2">
+                                @Html.DisplayNameFor(model => model.Model)
+                            </dt>
+                            <dd class="col-sm-10">
+                                @Html.DisplayFor(model => model.Model)
+                            </dd>
+                            <dt class="col-sm-2">
+                                @Html.DisplayNameFor(model => model.CanNang)
+                            </dt>
+                            <dd class="col-sm-10">
+                                @Html.DisplayFor(model => model.CanNang)
+                            </dd>
+                            <dt class="col-sm-2">
+                                @Html.DisplayNameFor(model => model.DoNoi)
+                            </dt>
+                            <dd class="col-sm-10">
+                                @Html.DisplayFor(model => model.DoNoi)
+                            </dd>
+                            <dt class="col-sm-2">
+                                @Html.DisplayNameFor(model => model.MaDacTinh)
+                            </dt>
+                            <dd class="col-sm-10">
+                                @Html.DisplayFor(model => model.MaDacTinh)
+                            </dd>
+                            <dt class="col-sm-2">
+                                @Html.DisplayNameFor(model => model.ThoiGianBaoHanh)
+                            </dt>
+                            <dd class="col-sm-10">
+                                @Html.DisplayFor(model => model.ThoiGianBaoHanh)
+                            </dd>
+
+                            <dt class="col-sm-2">
+                                @Html.DisplayNameFor(model => model.ChietKhau)
+                            </dt>
+                            <dd class="col-sm-10">
+                                @Html.DisplayFor(model => model.ChietKhau)
+                            </dd>
+                            <dt class="col-sm-2">
+                                @Html.DisplayNameFor(model => model.GiaNhoNhat)
+                            </dt>
+                            <dd class="col-sm-10">
+                                @Html.DisplayFor(model => model.GiaNhoNhat)
+                            </dd>
+                            <dt class="col-sm-2">
+                                @Html.DisplayNameFor(model => model.GiaLonNhat)
+                            </dt>
+                            <dd class="col-sm-10">
+                                @Html.DisplayFor(model => model.GiaLonNhat)
+                            </dd>
+                            @* <div>
+                                <p>Đặc tính: @ViewBag.TenDt</p>
+                            </div>
+                            <div>
+                                <p>Hãng sản xuất: @ViewBag.TenHangSx</p>
+                            </div>
+                            <div>
+                                <p>Loại: @ViewBag.TenLoai</p>
+                            </div>
+                            <div>
+                                <p>Nước sản xuất: @ViewBag.TenNuoc</p>
+                            </div> *@
+                        </dl>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Product Details Section End -->
