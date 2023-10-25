@@ -22,8 +22,8 @@ This project is a web application built using ASP.NET Core, using C# to manage a
 
 - ASP.NET Core SDK
 - Entity Framework Core
-- An appropriate development environment (e.g., Visual Studio, Visual Studio Code)
-- Supported database system (e.g., SQL Server, MySQL)
+- An appropriate development environment Visual Studio
+- Supported database system SQL Serve
 
 ## Author
 
