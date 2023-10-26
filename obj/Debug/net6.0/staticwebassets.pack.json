@@ -77,12 +77,12 @@
       "PackagePath": "staticwebassets\\1LayoutOrgani\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\banner\\banner-1.jpg",
-      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\banner\\banner-1.jpg"
+      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\banner\\banner-1.jpg.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\banner\\banner-1.jpg.jpg"
     },
     {
-      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\banner\\banner-2.jpg",
-      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\banner\\banner-2.jpg"
+      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\banner\\banner-2.jpg.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\banner\\banner-2.jpg.jpg"
     },
     {
       "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\blog\\blog-1.jpg",
@@ -223,6 +223,14 @@
     {
       "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\logo.png",
       "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\new_banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\new_banner\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\new_banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\new_banner\\banner-2.jpg"
     },
     {
       "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\payment-item.png",

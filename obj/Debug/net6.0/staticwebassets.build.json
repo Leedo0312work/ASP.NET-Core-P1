@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EI9HBsxCnwPuoPBaGq/5H84iAzO4f9AMV/sqvlu+Dbo=",
+  "Hash": "MQzeDWFau/LRL7GjMYB7F13V5cz+BTPfunm9io0DOj4=",
   "Source": "Project1WebMvc",
   "BasePath": "_content/Project1WebMvc",
   "Mode": "Default",
@@ -357,12 +357,12 @@
       "OriginalItemSpec": "wwwroot\\1LayoutOrgani\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\banner\\banner-1.jpg",
+      "Identity": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\banner\\banner-1.jpg.jpg",
       "SourceId": "Project1WebMvc",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\",
       "BasePath": "_content/Project1WebMvc",
-      "RelativePath": "1LayoutOrgani/img/banner/banner-1.jpg",
+      "RelativePath": "1LayoutOrgani/img/banner/banner-1.jpg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -371,15 +371,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\1LayoutOrgani\\img\\banner\\banner-1.jpg"
+      "OriginalItemSpec": "wwwroot\\1LayoutOrgani\\img\\banner\\banner-1.jpg.jpg"
     },
     {
-      "Identity": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\banner\\banner-2.jpg",
+      "Identity": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\banner\\banner-2.jpg.jpg",
       "SourceId": "Project1WebMvc",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\",
       "BasePath": "_content/Project1WebMvc",
-      "RelativePath": "1LayoutOrgani/img/banner/banner-2.jpg",
+      "RelativePath": "1LayoutOrgani/img/banner/banner-2.jpg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,7 +388,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\1LayoutOrgani\\img\\banner\\banner-2.jpg"
+      "OriginalItemSpec": "wwwroot\\1LayoutOrgani\\img\\banner\\banner-2.jpg.jpg"
     },
     {
       "Identity": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\blog\\blog-1.jpg",
@@ -984,6 +984,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\1LayoutOrgani\\img\\logo.png"
+    },
+    {
+      "Identity": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\new_banner\\banner-1.jpg",
+      "SourceId": "Project1WebMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\",
+      "BasePath": "_content/Project1WebMvc",
+      "RelativePath": "1LayoutOrgani/img/new_banner/banner-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\1LayoutOrgani\\img\\new_banner\\banner-1.jpg"
+    },
+    {
+      "Identity": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\new_banner\\banner-2.jpg",
+      "SourceId": "Project1WebMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\",
+      "BasePath": "_content/Project1WebMvc",
+      "RelativePath": "1LayoutOrgani/img/new_banner/banner-2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\1LayoutOrgani\\img\\new_banner\\banner-2.jpg"
     },
     {
       "Identity": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\payment-item.png",
