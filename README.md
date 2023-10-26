@@ -14,9 +14,8 @@ This project is a web application built using ASP.NET Core, using C# to manage a
 ## Key Features
 
 1. Product category management.
-2. Adding, editing, and deleting products.
+2. Adding, viewing, editing, and deleting products.
 3. Viewing specific product details with related information.
-
 
 ## Prerequisites
 
