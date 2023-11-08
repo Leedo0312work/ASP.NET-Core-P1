@@ -77,14 +77,6 @@
       "PackagePath": "staticwebassets\\1LayoutOrgani\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\banner\\banner-1.jpg.jpg",
-      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\banner\\banner-1.jpg.jpg"
-    },
-    {
-      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\banner\\banner-2.jpg.jpg",
-      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\banner\\banner-2.jpg.jpg"
-    },
-    {
       "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\blog\\blog-1.jpg",
       "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\blog\\blog-1.jpg"
     },
@@ -149,24 +141,24 @@
       "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\cart\\cart-3.jpg"
     },
     {
-      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\categories\\cat-1.jpg",
-      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\categories\\cat-1.jpg"
+      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\categories\\cat1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\categories\\cat1.jpg"
     },
     {
-      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\categories\\cat-2.jpg",
-      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\categories\\cat-2.jpg"
+      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\categories\\cat2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\categories\\cat2.jpg"
     },
     {
-      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\categories\\cat-3.jpg",
-      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\categories\\cat-3.jpg"
+      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\categories\\cat3.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\categories\\cat3.jpg"
     },
     {
-      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\categories\\cat-4.jpg",
-      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\categories\\cat-4.jpg"
+      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\categories\\cat4.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\categories\\cat4.jpg"
     },
     {
-      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\categories\\cat-5.jpg",
-      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\categories\\cat-5.jpg"
+      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\categories\\cat5.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\categories\\cat5.jpg"
     },
     {
       "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\featured\\feature-1.jpg",
@@ -201,8 +193,16 @@
       "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\featured\\feature-8.jpg"
     },
     {
-      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\hero\\banner.jpg",
-      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\hero\\banner.jpg"
+      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\hero\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\hero\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\ibanner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\ibanner\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\ibanner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\ibanner\\banner-2.jpg"
     },
     {
       "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\language.png",
@@ -221,16 +221,8 @@
       "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\latest-product\\lp-3.jpg"
     },
     {
-      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\logo.png",
-      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\logo.png"
-    },
-    {
-      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\new_banner\\banner-1.jpg",
-      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\new_banner\\banner-1.jpg"
-    },
-    {
-      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\new_banner\\banner-2.jpg",
-      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\new_banner\\banner-2.jpg"
+      "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\logo.jpg",
+      "PackagePath": "staticwebassets\\1LayoutOrgani\\img\\logo.jpg"
     },
     {
       "Id": "D:\\Project_ASP\\ThucHanhWebMVC\\ProjectWebMVC\\wwwroot\\1LayoutOrgani\\img\\payment-item.png",

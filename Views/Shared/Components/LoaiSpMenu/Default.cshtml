@@ -8,8 +8,28 @@
         <ul>
             @foreach(var item in Model)
             {
+                @* var getUrl = "";
+                <li><a asp-controller="Home" asp-action="SanPhamTheoLoai" asp-route-maloai="@item.MaLoai">@item.Loai</a></li> *@
                 <li><a asp-controller="Home" asp-action="SanPhamTheoLoai" asp-route-maloai="@item.MaLoai">@item.Loai</a></li>
             }
         </ul>
     </div>
 </div>
+<script>
+    function showProductByCategory(getUrl) {
+        var str = '';
+        $.ajax({
+            type: 'GET',
+            url: getUrl,
+            dataType: 'json',
+            success: function (data) {
+                $.each(data, function (key, val) {
+                    str += '<p>' + val.tenSp + '<p>'
+                })
+            }
+                Error: function(xhr) {
+                    alert(xhr.responseText)
+                }
+        })
+    }
+</script>
