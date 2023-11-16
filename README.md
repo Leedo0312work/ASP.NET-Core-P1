@@ -1,4 +1,4 @@
-# ASP.NEt-Core-P1
+# ASP.NET-Core-P1
 ## Description
 
 This project is a web application built using ASP.NET Core, using C# to manage and display information about products in the database. The application provides features to manage product categories, add, edit, delete products, and view specific product details.
@@ -17,7 +17,7 @@ This project is a web application built using ASP.NET Core, using C# to manage a
 2. Adding, viewing, editing, and deleting products.
 3. Viewing specific product details with related information.
 
-## Prerequisites
+## Summaries 
 
 - ASP.NET Core SDK
 - Entity Framework Core
